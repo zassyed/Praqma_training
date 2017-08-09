@@ -1,12 +1,4 @@
-# Praqma_training
-We are DeltaForce!
-This is the praqma code academy
-
-THIS IS ADAM
-ADAM 2
-<<<<<<< HEAD
-ADAM 3
-=======
+greetings, fellow humans!
 
 
                                       I
@@ -53,4 +45,3 @@ ADAM 3
               \                                               =|\
                \                                              =||
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
->>>>>>> 79bc8fed9519b03c6c3f668de799c39ad76bf45a
