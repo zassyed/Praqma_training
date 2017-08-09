@@ -1,4 +1,5 @@
 # Praqma_training
+We are DeltaForce!
 This is the praqma code academy
 
 <<<<<<< HEAD
@@ -16,7 +17,7 @@ ADAM 2
 <<<<<<< HEAD
 ADAM 3
 =======
-
+Adam 4
 
                                       I
                                    _.$I
