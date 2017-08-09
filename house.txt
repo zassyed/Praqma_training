@@ -1,3 +1,4 @@
+THIS IS A HOUSE
 
 
 
@@ -7,8 +8,19 @@
 
 
 
+    oOOooOOoo
+ oOooOOOoooOOOooO
+ OOooOoOOOoOOOOoO
+ Ooooo OooOO oO
+  ooO  OOoo Oo
+    Oo Ooo O
+      ooOoo
+       I I
+       I I
+       I I
 
 
+<<<<<<< HEAD
 
 
 
@@ -36,3 +48,19 @@ _- -   | | _- _
   _ -  | |   -_
       // \\
 Syed
+=======
+|						|
+|						|
+|           ____________			|
+|           |  __  __  |			|
+|           | |  ||  | |			|
+|           | |  ||  | |			|
+|           | |__||__| |			|
+|           |  __  __()|			|
+|           | |  ||  | |			|
+|           | |  ||  | |			|
+|           | |  ||  | |			|
+|           | |  ||  | |			|
+|           | |__||__| |			|
+|taiyeba    |__________|			|
+>>>>>>> ae0eee93ceeccc480b2fc86095efca0bb5509fd6
