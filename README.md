@@ -2,12 +2,13 @@
 We are DeltaForce!
 This is the praqma code academy
 
-THIS IS ADAM
+THIS IS ADAM (Useless)
 ADAM 2
 <<<<<<< HEAD
 ADAM 3
 =======
 Adam 4
+
 
                                       I
                                    _.$I
